@@ -1,5 +1,6 @@
 @media screen and (max-width: 800px) {
-    .two-columns {
+    .two-columns,
+    .three-coloms {
         display: block;
     }
 }
